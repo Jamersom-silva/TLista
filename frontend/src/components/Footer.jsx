@@ -1,9 +1,8 @@
 export default function Footer() {
   return (
-    <footer className="bg-gray-100 mt-10 py-4 border-t">
-      <div className="max-w-5xl mx-auto text-center text-gray-600 text-sm">
-        <p>© {new Date().getFullYear()} ToDofy — Planejamento Fácil e Organizado</p>
-        <p className="mt-1">Desenvolvido por Jamersom Silva 🚀</p>
+    <footer className="bg-white border-t py-6 mt-10">
+      <div className="max-w-6xl mx-auto px-6 text-center text-gray-600 text-sm">
+        © {new Date().getFullYear()} ToDofy — Organização simples e eficiente.
       </div>
     </footer>
   );
