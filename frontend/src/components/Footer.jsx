@@ -27,9 +27,7 @@ export default function Footer() {
         {/* Links */}
         <div className="flex justify-center flex-wrap gap-6 text-gray-600 font-medium mb-6">
 
-          <Link to="/" className="hover:text-[#00a86b] transition">
-            Início
-          </Link>
+         
 
           {!isLogged && (
             <>
