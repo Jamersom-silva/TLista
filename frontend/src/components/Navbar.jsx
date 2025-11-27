@@ -77,14 +77,6 @@ export default function Navbar() {
             </>
           )}
 
-          {/* CTA → Sempre visível */}
-          <Link
-            to="/"
-            className="px-4 py-2 bg-[#00a86b] text-white rounded-lg shadow hover:bg-[#008a56] transition hidden sm:block"
-          >
-            Começar agora
-          </Link>
-
         </nav>
       </div>
     </header>
