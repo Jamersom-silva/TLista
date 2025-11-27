@@ -55,8 +55,8 @@ export default function Footer() {
 
         {/* Créditos */}
         <p className="text-gray-600 text-sm flex justify-center items-center gap-1">
-          © {new Date().getFullYear()} ToDofy — Feito com 
-          <Heart size={16} className="text-red-500" />  
+          © {new Date().getFullYear()} 
+          
           foco e organização.
         </p>
       </div>
