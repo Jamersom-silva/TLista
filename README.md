@@ -117,7 +117,6 @@ CORS
 
 Arquitetura por rotas e middlewares
 
-🧩 Estrutura Geral do Projeto
 TLista/
 │
 ├── backend/
@@ -145,6 +144,7 @@ TLista/
 │
 ├── README.md
 └── ...
+
 
 🌟 Por que o ToDofy é especial?
 
